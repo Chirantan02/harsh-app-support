@@ -37,8 +37,8 @@ Harsh is not directed at children under 13. We do not knowingly collect data fro
 
 ### Requesting deletion of your data
 
-To request deletion of the data associated with your account (your Google-account identifier, email, and purchase entitlement records), email **support@antibrainrot.app** with the subject "Delete my data" from the address you use in the app. We delete the account identifier and email within 30 days. Purchase records retained by Google Play and RevenueCat are governed by their retention policies; anonymized analytics aggregates cannot be traced back to you. Uninstalling the app removes all locally stored data immediately.
+To request deletion of the data associated with your account (your Google-account identifier, email, and purchase entitlement records), email **stylescape.app@gmail.com** with the subject "Delete my data" from the address you use in the app. We delete the account identifier and email within 30 days. Purchase records retained by Google Play and RevenueCat are governed by their retention policies; anonymized analytics aggregates cannot be traced back to you. Uninstalling the app removes all locally stored data immediately.
 
 ## Contact
 
-Questions: **support@antibrainrot.app**
+Questions: **stylescape.app@gmail.com**

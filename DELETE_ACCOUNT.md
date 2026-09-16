@@ -23,7 +23,7 @@ on any server because nothing was ever uploaded.
 Some records live with third-party processors (purchases, anonymous analytics).
 To request deletion of anything traceable to you:
 
-1. Email **support@antibrainrot.app** with the subject **"Delete my data"**.
+1. Email **stylescape.app@gmail.com** with the subject **"Delete my data"**.
 2. In the email, include your Google Play order number (format `GPA.xxxx-xxxx-xxxx-xxxxx`,
    found on your Play receipt email or at
    [pay.google.com](https://pay.google.com) → Activity).
@@ -44,4 +44,4 @@ and we never sell or share personal data with advertisers.
 
 ## Questions
 
-Contact **support@antibrainrot.app**.
+Contact **stylescape.app@gmail.com**.

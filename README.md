@@ -1,3 +1,3 @@
 # Harsh Support
 
-Support: support@antibrainrot.app
+Support: stylescape.app@gmail.com
